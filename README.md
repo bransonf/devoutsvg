@@ -10,7 +10,7 @@
 
 `devoutsvg` provides a bespoke SVG graphics device written in plain R.
 
-The key feature of this SVG graphics device is that it allowd for the
+The key feature of this SVG graphics device is that it allowed for the
 use of patterns for filled regions in plots\!
 
 ## Installation
